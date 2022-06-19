@@ -1,60 +1,50 @@
- {
-      "id": "1",
-      "name": "Edraak ICDL",
-      "image": "https://m7madmagdy.github.io/pages/ICDL.png"
-   },
-   {
-      "id": "2",
-      "name": "HTML, CSS and JavaScript",
-      "image": "https://m7madmagdy.github.io/pages/Coursera.png"
-   },
-    {
-      "id": "3",
-      "name": "HTML SoloLearn",
-      "image": "https://m7madmagdy.github.io/pages/HTMLSolo.png"
-   },
-    {
-      "id": "4",
-      "name": "Kotlin SoloLearn",
-      "image": "https://m7madmagdy.github.io/pages/Kotlin.png"
-   },
-    {
-      "id": "5",
-      "name": "Java Mahara-Tech",
-      "image": "https://m7madmagdy.github.io/pages/Java.png"
-   },
-    {
-      "id": "6",
-      "name": "JavaScript SoloLearn",
-      "image": "https://m7madmagdy.github.io/pages/JSSolo.png"
-   },
-    {
-      "id": "7",
-      "name": "C++ SoloLearn",
-      "image": "https://m7madmagdy.github.io/pages/C%2B%2BSolo.png"
-   },
-    {
-      "id": "8",
-      "name": "HTML, CSS Mahara-Tech",
-      "image": "https://m7madmagdy.github.io/pages/html.png"
-   },
-    {
-      "id": "9",
-      "name": "Problem Solving HackerRank",
-      "image": "https://m7madmagdy.github.io/pages/ProblemSolving.png"
-   },
-    {
-      "id": "10",
-      "name": "Android Udemy",
-      "image": "https://m7madmagdy.github.io/pages/android.png"
-   },
-    {
-      "id": "11",
-      "name": "C++ Udemy",
-      "image": "https://m7madmagdy.github.io/pages/c%2B%2B-ud.png"
-   },
-    {
-      "id": "12",
-      "name": "Kotlin Programming Languag",
-      "image": "https://m7madmagdy.github.io/pages/kotlin.png"
-   },
+ [
+	   {
+	      "name": "Edraak ICDL",
+	      "image": "https://m7madmagdy.github.io/pages/ICDL.png"
+	   },
+	   {
+	      "name": "HTML, CSS and JavaScript",
+	      "image": "https://m7madmagdy.github.io/pages/Coursera.png"
+	   },
+	    {
+	      "name": "HTML SoloLearn",
+	      "image": "https://m7madmagdy.github.io/pages/HTMLSolo.png"
+	   },
+	    {
+	      "name": "Kotlin SoloLearn",
+	      "image": "https://m7madmagdy.github.io/pages/Kotlin.png"
+	   },
+	    {
+	      "name": "Java Mahara-Tech",
+	      "image": "https://m7madmagdy.github.io/pages/Java.png"
+	   },
+	    {
+	      "name": "JavaScript SoloLearn",
+	      "image": "https://m7madmagdy.github.io/pages/JSSolo.png"
+	   },
+	    {
+	      "name": "C++ SoloLearn",
+	      "image": "https://m7madmagdy.github.io/pages/C%2B%2BSolo.png"
+	   },
+	    {
+	      "name": "HTML, CSS Mahara-Tech",
+	      "image": "https://m7madmagdy.github.io/pages/html.png"
+	   },
+	    {
+	      "name": "Problem Solving HackerRank",
+	      "image": "https://m7madmagdy.github.io/pages/ProblemSolving.png"
+	   },
+	    {
+	      "name": "Android Udemy",
+	      "image": "https://m7madmagdy.github.io/pages/android.png"
+	   },
+	    {
+	      "name": "C++ Udemy",
+	      "image": "https://m7madmagdy.github.io/pages/c%2B%2B-ud.png"
+	   },
+	    {
+	      "name": "Kotlin Programming Languag",
+	      "image": "https://m7madmagdy.github.io/pages/kotlin.png"
+	   },
+]
