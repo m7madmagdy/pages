@@ -58,5 +58,10 @@
       "id":"12",
       "name":"Kotlin Programming Languag",
       "image":"https://m7madmagdy.github.io/pages/kotlin.png"
+   },
+   {
+      "id":"13",
+      "name":"JavaScript Programming Languag",
+      "image":"https://m7madmagdy.github.io/pages/JavaScript.png"
    }
 ]
